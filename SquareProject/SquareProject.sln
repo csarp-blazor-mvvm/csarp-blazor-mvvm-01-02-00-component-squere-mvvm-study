@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareProject.Server", "Server\SquareProject.Server.csproj", "{2CF7B1BF-71BE-4F23-95FD-E0D5649BCA46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareProject.Server", "Server\SquareProject.Server.csproj", "{2CF7B1BF-71BE-4F23-95FD-E0D5649BCA46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareProject.Client", "Client\SquareProject.Client.csproj", "{0CA44C59-841B-4815-96EB-C2C06EDE33B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareProject.Client", "Client\SquareProject.Client.csproj", "{0CA44C59-841B-4815-96EB-C2C06EDE33B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareProject.Shared", "Shared\SquareProject.Shared.csproj", "{96D5B51D-98B4-4E76-BA07-7DDEE9F1F166}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareProject.Shared", "Shared\SquareProject.Shared.csproj", "{96D5B51D-98B4-4E76-BA07-7DDEE9F1F166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
